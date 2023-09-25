@@ -1,0 +1,102 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+header h1 {
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+img {
+    width: 520px;
+}
+
+.cbc {
+    color: white;
+    display: flex;
+
+}
+
+.card {
+    margin: 0 auto;
+    margin-top: 40px;
+    margin-bottom: 80px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-style: groove;
+    border-color: white;
+}
+
+.card p {
+    font-size: 20px;
+}
+
+h2,
+cbc {
+    display: flex;
+    justify-content: center;
+}
+
+section {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.esquerda {
+
+    padding-right: 150px;
+    font-size: 20px;
+}
+
+h1,
+section {
+    display: flex;
+    justify-content: center;
+}
+
+.logo {
+    width: 60px;
+}
+
+.logo1 {
+    width: 40px;
+    padding-right: 10px;
+}
+
+
+
+.logoFallen {
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    padding-top: 50px;
+    
+    color: white;
+}
+
+
+
+.fts {
+    width: 300px;
+}
+
+
+
+.frase {
+    display: flex;
+    justify-content: center;
+    font-size: 22px;
+    background-color: black;
+    color:white;
+    
+}
